@@ -1,0 +1,51 @@
+.newslater{
+    width: 65%;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding:0px 140px ;
+    margin-bottom:150px ;
+    background-color: #fbe8ff;
+    gap:30px ;
+    margin-top:750px ;
+}
+.newslater h1{
+    color: #454545;
+    font-size:55px ;
+    font-weight: 600;
+}
+.newslater p{
+    color: #454545;
+    font-size:20px ;
+}
+.newslater div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+    width:730px ;
+    height: 70px;
+    border-radius:80px;
+    border:1px solid #e3e3e3;
+}
+.newslater input{
+    width: 500px;
+    margin-left:30px ;
+    border:none ;
+    outline:none ;
+    color:#616161 ;
+    font-family: P0ppins;
+    font-size:16px ;
+}
+.newslater button{
+    width: 210px;
+    height: 70px;
+    border-radius:80px ;
+    background-color: black;
+    color:white ;
+    font-size: 16px;
+    cursor: pointer;
+}
